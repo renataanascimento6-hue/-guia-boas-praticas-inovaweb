@@ -1,0 +1,5 @@
+contatos-suporte.txt
+
+suporte@agenciaexemplo.com.br
+atendimento@example.com
+faturamento@example.net
